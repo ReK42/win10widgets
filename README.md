@@ -2,10 +2,10 @@
 Updated version of Win10 Widgets
 
 ## Licence
-Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Contributors
-- Original [Win10 Widgets](http://win10widgets.com) by [TJ Markham](https://github.com/tjmarkham)
+- [Win10 Widgets](http://win10widgets.com) by [TJ Markham](https://github.com/tjmarkham)
 - [Weather Patch V3.2020.10.18](https://www.deviantart.com/eclectic-tech/art/Win10-Weather-Patch-2020-10-18-780236969) by [Eclectic Tech](https://www.deviantart.com/eclectic-tech)
 - [Disk performance widget improvements](https://github.com/ReK42/win10widgets) by [ReK42](https://github.com/ReK42)
 
