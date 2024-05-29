@@ -12,6 +12,9 @@ Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https
 - [Autolocation and widget improvements](https://github.com/ReK42/win10widgets) by [ReK42](https://github.com/ReK42)
 
 ## Changelog
+### v1.1.1
+- Update weather.com API key
+
 ### v1.1.0
 - Include Win10Widgets Weather Patch V3.2020.10.18 by Eclectic Tech
 - Add autolocation for weather widget, using the Windows Location Service
